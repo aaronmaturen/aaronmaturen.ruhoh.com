@@ -11,6 +11,7 @@ description:
     <p>
 			<a href="https://github.com/aaronmaturen/datagen">Learn more</a>
 		</p>
+		<hr />
   </div>
 </div>
 
@@ -24,6 +25,7 @@ description:
     <p>
 			<a href="https://github.com/aaronmaturen/lizard">Learn more</a>
 		</p>
+		<hr />
 	</div>
 </div>
 
@@ -36,5 +38,6 @@ description:
     <p>
 			<a href="https://github.com/aaronmaturen/ETL">Learn more</a>
 		</p>
+		<hr />
   </div>
 </div>

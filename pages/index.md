@@ -5,17 +5,20 @@ description: I design wonderful web apps, mostly with JavaScript and HTML5
 
 <div class="row">
 	<div class="span4">
-		<a href="projects" class="topics" style="text-align:center;"><img style="margin:0 auto;display: block;" src="assets/img/me-2.jpg" class="img-circle">
+		<a href="projects" class="topics" style="text-align:center;">
+			<img style="margin:0 auto;display: block;" src="{{urls.media}}/me-2.jpg" class="img-circle">
 			<h2>Projects</h2>
 		</a>
 	</div>
 	<div class="span4">
-		<a href="http://blog.aaronmaturen.com" class="topics" style="text-align:center;"><img style="margin:0 auto;display: block;" src="assets/img/me-1.jpg" class="img-circle">
+		<a href="http://blog.aaronmaturen.com" class="topics" style="text-align:center;">
+			<img style="margin:0 auto;display: block;" src="{{urls.media}}/me-1.jpg" class="img-circle">
 			<h2>Writings</h2>
 		</a>
 	</div>
 	<div class="span4">
-		<a href="presentations" class="topics" style="text-align:center;"><img style="margin:0 auto;display: block;" src="assets/img/me-3.jpg" class="img-circle">
+		<a href="presentations" class="topics" style="text-align:center;">
+			<img style="margin:0 auto;display: block;" src="{{urls.media}}/me-3.jpg" class="img-circle">
 			<h2>Presentations</h2>
 		</a>
 	</div>

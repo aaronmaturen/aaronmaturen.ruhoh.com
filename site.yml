@@ -8,11 +8,11 @@ author :
   feedburner : feedname
 
 navigation :
-	- presentations.md
-	- projects.md
 #  - archive.html
 #  - tags.html
 #  - categories.html
 #  - pages.html
+  - presentations.md
+  - projects.md
   - about.md
   

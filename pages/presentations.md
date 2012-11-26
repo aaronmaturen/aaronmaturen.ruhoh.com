@@ -5,7 +5,9 @@ description:
 <div class="row">
 	<div class="span12">
 	  <div class="row">
-			<h4><strong><a href="#">DESIGN PATTERNS AND BACKBONE IN JAVASCRIPT</a></strong></h4>
+			<div class="span12">
+				<h4><strong><a href="#">DESIGN PATTERNS AND BACKBONE IN JAVASCRIPT</a></strong></h4>
+			</div>
 	    <div class="span2">
 	      <a href="#" class="thumbnail">
 	          <img src="{{urls.media}}/monster1.jpg" class="img-polaroid" alt="">

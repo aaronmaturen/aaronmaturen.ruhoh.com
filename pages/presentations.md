@@ -3,19 +3,15 @@ description:
 ---
 
 <div class="row">
-	<div class="span8">
+	<div class="span12">
 	  <div class="row">
-	    <div class="span8">
-	      <h4><strong><a href="#">DESIGN PATTERNS AND BACKBONE IN JAVASCRIPT</a></strong></h4>
-	    </div>
-	  </div>
-	  <div class="row">
+			<h4><strong><a href="#">DESIGN PATTERNS AND BACKBONE IN JAVASCRIPT</a></strong></h4>
 	    <div class="span2">
 	      <a href="#" class="thumbnail">
 	          <img src="{{urls.media}}/monster1.jpg" class="img-polaroid" alt="">
 	      </a>
 	    </div>
-	    <div class="span6">   
+	    <div class="span10">   
 	      <p>
 	For the presentation I will create a monster themed Web Application using MV* architecture and Backbone.js through the presentation and application I will explain how JavaScript benefits from Design Patterns to prevent ‘monstrous code’.
 	      </p>

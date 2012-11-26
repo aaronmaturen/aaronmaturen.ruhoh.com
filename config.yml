@@ -3,7 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : aaron
-production_url : http://blog.aaronmaturen.com
+production_url : http://www.aaronmaturen.com
 
 posts:
   permalink: /:categories/:title/

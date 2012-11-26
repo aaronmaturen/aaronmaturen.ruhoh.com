@@ -3,6 +3,7 @@ title: Welcome to my mind.
 description: I design wonderful web apps, mostly with JavaScript and HTML5
 ---
 
+<p>I design wonderful web apps, mostly with JavaScript and HTML5</p>
 <div class="row">
 	<div class="span4">
 		<a href="projects" class="topics" style="text-align:center;">

@@ -6,7 +6,7 @@ description:
 	<div class="span12">
 	  <div class="row">
 			<div class="span12">
-				<h4><strong><a href="#">DESIGN PATTERNS AND BACKBONE IN JAVASCRIPT</a></strong></h4>
+				<h3><strong><a href="#">Design Patterns and Backbone in Javascript</a></strong></h3>
 	      <p>
 					For the presentation I will create a monster themed Web Application using MV* architecture and Backbone.js through the presentation and application I will explain how JavaScript benefits from Design Patterns to prevent ‘monstrous code’.
 	      </p>

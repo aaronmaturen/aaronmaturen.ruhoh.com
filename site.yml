@@ -1,6 +1,6 @@
 title : Aaron Maturen
 tagline: Blog Tagline
-author : Aaron Maturen
+author :
   name : Aaron Maturen
   email : aaron.maturen@gmail.com
   github : aaronmaturen
@@ -8,5 +8,9 @@ author : Aaron Maturen
   feedburner : feedname
 
 navigation :
-  - about.md
+  - archive.html
+#  - tags.html
+#  - categories.html
+#  - pages.html
+#  - about.md
   
